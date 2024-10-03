@@ -7,7 +7,7 @@
   --font-size-base: 16px;
   --border-radius: 5px;
   --light-black: #171717;
-  --gray: red;
+
   --red-color: #fe0000;
   --white: #f3f3f3;
 }
@@ -24,6 +24,7 @@ body {
   color: var(--font-color);
   background-color: var(--background-color);
   line-height: 1.6;
+  font-family: "poppins";
 }
 
 code {
