@@ -45,6 +45,7 @@
   font-size: 18px;
   font-weight: 500;
   padding: 14px 0px;
+  cursor: pointer;
 }
 .hero-section-right {
   display: flex;

@@ -29,26 +29,8 @@ li {
 }
 button {
   cursor: pointer;
-  border-radius: 4px;
 }
 
-button:hover {
-  outline-offset: 2px;
-}
-
-button:focus {
-  outline: 2px solid var(--primary-color);
-}
-
-input,
-textarea {
-  outline: none;
-}
-
-input:focus,
-textarea:focus {
-  border-color: ;
-}
 /* Tablet view */
 @media (min-width: 768px) {
   body {
